@@ -16,7 +16,7 @@ This is the culmination of 10 long years of story content. If you don't want to 
 
 ## Dusting off the rust
 #### Even 10 years later, the gunplay remains smooth and satisfying
-With the purchase of The Final Shape DLC, this upcoming season pass was automatically granted to me letting me get quick access on the DLCs new exotic weapons. My favorite auto weapon so far has been the new auto-rifle exotic, Quicksilver Storm. With it's maxed out handling, it's been an absolute joy to use with to mow down my enemies. So far the new weapons have been smooth, enjoyable, and addicting to play with.
+With the purchase of The Final Shape DLC, this upcoming season pass was automatically granted to me letting me get quick access on the DLCs new exotic weapons. My favorite auto weapon so far has been the new auto-rifle exotic, Quicksilver Storm. With it's maxed out handling, it's been an absolute joy to use with to mow down my enemies. So far the new weapons have been smooth, enjoyable, and addicting to play
 
 ## The Campaign
 #### Plot? Just hand over the new weapons.
@@ -25,5 +25,5 @@ Destiny 2's campaign typically have a lot of unncecessary padding, having your g
 
 ## The Witness
 #### All things culminate here
-{: .box-success}
-This section will be updated once I've finished the story.
+
+{: .box-success} This section will be updated once I've finished the story.
