@@ -2,7 +2,7 @@
 layout: post
 title: 10 Years of Destiny
 subtitle: A retrospective on Bungie's critically acclaimed looter-shooter
-tags: [test]
+tags: [Destiny2]
 comments: true
 mathjax: true
 author: Paul Bui
@@ -26,4 +26,5 @@ Destiny 2's campaign typically have a lot of unncecessary padding, having your g
 ## The Witness
 #### All things culminate here
 
-{: .box-success} This section will be updated once I've finished the story.
+This section will be updated once I've finished the story.
+{: .box-success} 
