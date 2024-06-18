@@ -23,9 +23,10 @@ navbar-links:
   About Me: "aboutme"
   Job Experience: "jobexperience"
   Resources:
-    - My hastely put together C++ notes : "https://rectangular-player-ccb.notion.site/Useful-Operators-1efb46d4dd0e4075ab6613c71f60491a?pvs=4"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - My hastely put together C++ notes: "https://rectangular-player-ccb.notion.site/Useful-Operators-1efb46d4dd0e4075ab6613c71f60491a?pvs=4"
+    - Destiny Inventory Manager: "https://app.destinyitemmanager.com/4611686018463063553/d2/inventory"
+    - Steam Profile: "https://steamcommunity.com/profiles/76561198208003304/"
+  
 
 ################
 # --- Logo --- #
